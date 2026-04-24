@@ -1,59 +1,49 @@
-# eulfn
+<h1 align="center">Hi, I'm eulfn</h1>
+<h4 align="center">Developer | Automation & System Optimizer</h4>
 
-I build small tools and side projects: WhatsApp bot bases, automation scripts, and fixes for system problems.
-
----
-
-## What I work on
-- WhatsApp bot scaffolds (Baileys, Node.js)
-- Automation and quick utilities (Shell)
-- Small apps that get iterated and released
+<p align="center">
+  I build small tools, resilient WhatsApp bots, and iterate on side projects. I'm all about optimizing workflows, handling backend structures, and fixing system bottlenecks.
+</p>
 
 ---
 
-## Projects
-
-- **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** Release-based project with UI changes, stability fixes, and an update flow.
-
-- **[WhatsApp bot base - CommonJS](https://github.com/eulfn/WhatsappBot-CJS)** Plugin-style commands, QR login, and reconnect/session handling.
-
-- **[WhatsApp bot base - ESM](https://github.com/eulfn/WhatsappBot-EMS)** Commands and events structure with middleware-style processing.
-
-- **[Linux coredump hang fix](https://github.com/eulfn/antigravity-coredump-fix)** Script to avoid system stalls caused by heavy `systemd-coredump` dumps.
-
----
-
-## Stack
-- JavaScript (Node.js)
-- Shell (Bash)
-- C#
+### Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4323?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
 
 ---
 
-## GitHub Stats
+### Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
-</div>
+| Project | Description |
+| :--- | :--- |
+| **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** | Release-based project focusing on UI improvements, stability fixes, and a smooth update flow. |
+| **[WhatsApp Bot (CJS)](https://github.com/eulfn/WhatsappBot-CJS)** | CommonJS base featuring plugin-style commands, QR login, and robust session/reconnect handling. |
+| **[WhatsApp Bot (ESM)](https://github.com/eulfn/WhatsappBot-EMS)** | Modern ESM structure with advanced event handling and middleware-style command processing. |
+| **[Linux Coredump Fix](https://github.com/eulfn/antigravity-coredump-fix)** | Custom shell utility designed to prevent system stalls caused by heavy `systemd-coredump` dumps. |
 
-<br />
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" />
-</div>
+### Activity & Stats
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" alt="Top Languages" width="49%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="100%" />
+</p>
 
-<br />
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
+</p>
 
----
-
-*Small projects, shipped when they are useful.*
+<p align="center"><i>Small projects, shipped when they are useful.</i></p>
