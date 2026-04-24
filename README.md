@@ -40,12 +40,22 @@ I build small tools and side projects: WhatsApp bot bases, automation scripts, a
 ---
 
 ## GitHub stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" />
-
-<br clear="both" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=eulfn&theme=discord&no-bg=true&no-frame=true&column=4" />
 
 ---
 
