@@ -40,22 +40,18 @@ I build small tools and side projects: WhatsApp bot bases, automation scripts, a
 ---
 
 ## GitHub stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=eulfn&theme=discord&no-bg=true&no-frame=true&column=4" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="95%" />
+</p>
 
 ---
 
