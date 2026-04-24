@@ -38,19 +38,16 @@
 ### Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" alt="Top Languages" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="90%" alt="Activity Graph" />
 </p>
 
 <p align="center"><i>Small projects, shipped when they are useful.</i></p>
