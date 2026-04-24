@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm eulfn</h1>
-<h4 align="center">Developer | Automation & System Optimizer</h4>
+<div align="center">
+  <h1>Hi, I'm eulfn</h1>
+  <p><b>Backend Developer | Automation Scripter | System Optimizer</b></p>
 
-<p align="center">
-  I build small tools, resilient WhatsApp bots, and iterate on side projects. I'm all about optimizing workflows, handling backend structures, and fixing system bottlenecks.
-</p>
+  <p>
+    I build small tools, resilient WhatsApp bots, and iterate on side projects. Currently, I'm in my software engineering internship focusing on backend systems (PHP & CodeIgniter 3), while also daily driving Arch Linux and tweaking my Hyprland/KDE environments. I'm all about optimizing workflows and fixing system bottlenecks.
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=eulfn&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ---
 
@@ -14,13 +18,13 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/CodeIgniter-EE4323?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
 
 ---
 
-### Projects
+### Featured Projects
 
 | Project | Description |
 | :--- | :--- |
@@ -31,6 +35,13 @@
 
 ---
 
+### GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=eulfn&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</p>
+
 ### Activity & Stats
 
 <p align="center">
@@ -39,7 +50,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eulfn&repo=WhatsappBot-EMS&theme=github_dark" alt="Pinned Repo" width="49%" /> 
 </p>
 
 <p align="center">
