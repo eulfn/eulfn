@@ -1,8 +1,6 @@
-<h1 align="left">eulfn</h1>
+# eulfn
 
-<p align="left">
-I build small tools and side projects: WhatsApp bot bases, automation scripts, and fixes for annoying system problems.
-</p>
+I build small tools and side projects: WhatsApp bot bases, automation scripts, and fixes for system problems.
 
 ---
 
@@ -13,48 +11,44 @@ I build small tools and side projects: WhatsApp bot bases, automation scripts, a
 
 ---
 
-## Projects worth opening
-- **Feener**  
-  `streak-tiktok` https://github.com/eulfn/streak-tiktok  
-  Release-based project with UI changes, stability fixes, and an update flow.
+## Projects
 
-- **WhatsApp bot base (CommonJS)**  
-  `WhatsappBot-CJS` https://github.com/eulfn/WhatsappBot-CJS  
-  Plugin-style commands, QR login, reconnect/session handling.
+- **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** Release-based project with UI changes, stability fixes, and an update flow.
 
-- **WhatsApp bot base (ESM)**  
-  `WhatsappBot-EMS` https://github.com/eulfn/WhatsappBot-EMS  
-  Commands/events structure with middleware-style processing.
+- **[WhatsApp bot base - CommonJS](https://github.com/eulfn/WhatsappBot-CJS)** Plugin-style commands, QR login, and reconnect/session handling.
 
-- **Linux coredump hang fix**  
-  `antigravity-coredump-fix` https://github.com/eulfn/antigravity-coredump-fix  
-  Script to avoid system stalls caused by heavy `systemd-coredump` dumps.
+- **[WhatsApp bot base - ESM](https://github.com/eulfn/WhatsappBot-EMS)** Commands and events structure with middleware-style processing.
+
+- **[Linux coredump hang fix](https://github.com/eulfn/antigravity-coredump-fix)** Script to avoid system stalls caused by heavy `systemd-coredump` dumps.
 
 ---
 
-## Stack I actually use here
+## Stack
 - JavaScript (Node.js)
 - Shell (Bash)
 - C#
 
 ---
 
-## GitHub stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
 
 ---
 
-<p align="left">
-<em>Small projects, shipped when they are useful.</em>
-</p>
+*Small projects, shipped when they are useful.*
