@@ -43,8 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eulfn&repo=WhatsappBot-EMS&theme=github_dark" alt="Pinned Repo" width="49%" /> 
+  <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
