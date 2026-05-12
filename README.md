@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm eulfn</h1>
-  <p><b>Backend Developer | Automation Scripter | System Optimizer</b></p>
+  <h1>Eulfn</h1>
+  <p><b>Backend Developer | Systems Engineer | Automation Specialist</b></p>
 
   <p>
-    I build small tools, resilient WhatsApp bots, and iterate on side projects. Currently, I'm in my software engineering internship focusing on backend systems (PHP & CodeIgniter 3), while also daily driving Arch Linux and tweaking my Hyprland/KDE environments. I'm all about optimizing workflows and fixing system bottlenecks.
+    I specialize in developing backend architectures, designing automation utilities, and optimizing system performance. My current focus is on enterprise backend development utilizing PHP and CodeIgniter, alongside continuous improvement of Linux-based development environments. I am dedicated to streamlining workflows, diagnosing system bottlenecks, and delivering resilient software solutions.
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=eulfn&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -11,7 +11,8 @@
 
 ---
 
-### Tech Stack & Tools
+### Technical Expertise
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -28,14 +29,14 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** | Release-based project focusing on UI improvements, stability fixes, and a smooth update flow. |
-| **[WhatsApp Bot (CJS)](https://github.com/eulfn/WhatsappBot-CJS)** | CommonJS base featuring plugin-style commands, QR login, and robust session/reconnect handling. |
-| **[WhatsApp Bot (ESM)](https://github.com/eulfn/WhatsappBot-EMS)** | Modern ESM structure with advanced event handling and middleware-style command processing. |
-| **[Linux Coredump Fix](https://github.com/eulfn/antigravity-coredump-fix)** | Custom shell utility designed to prevent system stalls caused by heavy `systemd-coredump` dumps. |
+| **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** | A production-grade automation tool featuring refined user interfaces, stability enhancements, and streamlined deployment pipelines. |
+| **[WhatsApp Bot (CJS)](https://github.com/eulfn/WhatsappBot-CJS)** | A modular automation platform built on CommonJS, featuring extensible command structures and robust session management. |
+| **[WhatsApp Bot (ESM)](https://github.com/eulfn/WhatsappBot-EMS)** | A modern ESM-based messaging bot engineered with advanced event-driven architecture and middleware processing. |
+| **[Linux Coredump Fix](https://github.com/eulfn/antigravity-coredump-fix)** | A diagnostic shell utility developed to mitigate system degradation caused by excessive systemd coredump operations. |
 
 ---
 
-### Activity & Stats
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="40%" />
@@ -53,4 +54,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eulfn&theme=react-dark&hide_border=true&area=true" width="85%" alt="Activity Graph" />
 </p>
 
-<p align="center"><i>Small projects, shipped when they are useful.</i></p>
+<p align="center"><i>Delivering reliable software through structured iteration.</i></p>
