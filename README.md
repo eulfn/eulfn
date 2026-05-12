@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Eulfn</h1>
-  <p><b>Backend Developer | Systems Engineer | Automation Specialist</b></p>
+  <p><b>Backend Developer | Automation Scripter | System Optimizer</b></p>
 
   <p>
-    I specialize in developing backend architectures, designing automation utilities, and optimizing system performance. My current focus is on enterprise backend development utilizing PHP and CodeIgniter, alongside continuous improvement of Linux-based development environments. I am dedicated to streamlining workflows, diagnosing system bottlenecks, and delivering resilient software solutions.
+    I build small tools, resilient WhatsApp bots, and iterate on side projects. Currently, I'm in my software engineering internship focusing on backend systems (PHP & CodeIgniter 3), while also daily driving Arch Linux and tweaking my Hyprland/KDE environments. I'm all about optimizing workflows and fixing system bottlenecks.
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=eulfn&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
