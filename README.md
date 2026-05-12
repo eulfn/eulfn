@@ -38,13 +38,7 @@
 
 ### GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eulfn&show_icons=true&hide_title=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" width="40%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulfn&layout=compact&theme=github_dark" alt="Top Languages" width="55%" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eulfn&theme=github-dark" alt="GitHub Streak" width="70%" />
