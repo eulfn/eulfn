@@ -3,7 +3,7 @@
   <p><b>Backend Developer | Automation Scripter | System Optimizer</b></p>
 
   <p>
-    I build small tools, resilient WhatsApp bots, and iterate on side projects. Currently, I'm in my software engineering internship focusing on backend systems (PHP & CodeIgniter 3), while also daily driving Arch Linux and tweaking my Hyprland/KDE environments. I'm all about optimizing workflows and fixing system bottlenecks.
+    I build small tools, resilient WhatsApp bots, and iterate on side projects. Currently, I'm in my internship focusing on backend systems (PHP & CodeIgniter 3), while also daily driving Arch Linux and tweaking my Hyprland/KDE environments. I'm all about optimizing workflows and fixing system bottlenecks.
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=eulfn&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
