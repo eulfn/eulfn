@@ -29,11 +29,10 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** | A production-grade automation tool featuring refined user interfaces, stability enhancements, and streamlined deployment pipelines. |
-| **[WhatsApp Bot (CJS)](https://github.com/eulfn/WhatsappBot-CJS)** | A modular automation platform built on CommonJS, featuring extensible command structures and robust session management. |
-| **[WhatsApp Bot (ESM)](https://github.com/eulfn/WhatsappBot-EMS)** | A modern ESM-based messaging bot engineered with advanced event-driven architecture and middleware processing. |
-| **[Linux Coredump Fix](https://github.com/eulfn/antigravity-coredump-fix)** | A diagnostic shell utility developed to mitigate system degradation caused by excessive systemd coredump operations. |
-
+| **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** | A fork of a TikTok streak automation tool. Rewrote parts of the UI, fixed some stability issues, and cleaned up the setup process. Got picked up and ported to Android by another dev. |
+| **[WhatsApp Bot (CJS)](https://github.com/eulfn/WhatsappBot-CJS)** | A WhatsApp bot built with Node.js using CommonJS. Supports custom commands and keeps sessions persistent so it doesn't log out randomly. |
+| **[WhatsApp Bot (ESM)](https://github.com/eulfn/WhatsappBot-EMS)** | Same bot, rewritten in ES Modules. Cleaner imports, better event handling — mostly an experiment in migrating from CJS to ESM. |
+| **[Linux Coredump Fix](https://github.com/eulfn/antigravity-coredump-fix)** | A small shell script to fix the high CPU and disk usage caused by Antigravity IDE crashing and spamming coredumps on Linux. Basically `ulimit` + systemd cleanup, packaged nicely. |
 ---
 
 ### GitHub Analytics
