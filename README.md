@@ -29,6 +29,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **[Fenboard](https://github.com/eulfn/Fenboard)** | A lightweight, high-performance, zero-bloat Wayland overlay for keyboard and mouse inputs. Designed for screen recording on Hyprland, it provides pixel-perfect visual parity with minimal resource usage and features a GTK4 configurator. |
 | **[Feener (streak-tiktok)](https://github.com/eulfn/streak-tiktok)** | A fork of a TikTok streak automation tool. Rewrote parts of the UI, fixed some stability issues, and cleaned up the setup process. Got picked up and ported to Android by another dev. |
 | **[WhatsApp Bot (CJS)](https://github.com/eulfn/WhatsappBot-CJS)** | A WhatsApp bot built with Node.js using CommonJS. Supports custom commands and keeps sessions persistent so it doesn't log out randomly. |
 | **[WhatsApp Bot (ESM)](https://github.com/eulfn/WhatsappBot-EMS)** | Same bot, rewritten in ES Modules. Cleaner imports, better event handling — mostly an experiment in migrating from CJS to ESM. |
