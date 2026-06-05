@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Eulfn</h1>
-  <p><b>Backend Developer | Automation Scripter | System Optimizer</b></p>
+  <p><b>Backend | Automation Scripter | System Optimizer</b></p>
 
   <p>
     I build small tools, and iterate on side projects. while also daily driving Arch Linux and tweaking my Hyprland/KDE environments.
